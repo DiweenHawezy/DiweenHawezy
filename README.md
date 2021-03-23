@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm a recent PhD graduate. I use Github to collate the projects I work on as I learn and to collaborate with other like-minded individuals. I'm interested in data science and visualization and I'm currently learning d3js. 
 
 <!--
 **DiweenHawezy/DiweenHawezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
