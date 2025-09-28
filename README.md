@@ -2,8 +2,6 @@
 
 ⚡ Data Scientist, Research & Development. 
 
-⚡ I use Github to collate the projects I work on as I learn and to collaborate with other like-minded individuals. 
-
 ⚡ Should unprivatise my repositories!
 
 <!--
